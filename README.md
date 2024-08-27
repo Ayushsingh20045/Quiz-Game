@@ -3,9 +3,9 @@ A fun and interactive web-based quiz application built using HTML, CSS, and Java
 
 Technologies Used:-
 
-HTML5: Structure and content of the game.
+-> HTML5: Structure and content of the game.
 
-CSS3: Styling and layout of the game.
+-> CSS3: Styling and layout of the game.
 
-JavaScript: Logic and interactivity of the quiz.
+-> JavaScript: Logic and interactivity of the quiz.
 
