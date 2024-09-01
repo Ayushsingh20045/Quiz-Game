@@ -14,7 +14,9 @@ Mentor:Muzammil Ahmed
 Overview of the project
 
 project: Quiz-Game
+
 Task given by CODETECH IT SOLUTION 
+
 A fun and interactive web-based quiz application built using HTML, CSS, and JavaScript. This project challenges users with a series of multiple-choice questions on various topics, providing instant feedback and tracking their score.
 
 Technologies Used:-
