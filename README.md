@@ -11,7 +11,10 @@ Duration:august to september 2024
 Mentor:Muzammil Ahmed
 
 
-Overview of the project
+Overview of the project:
+
+![To-Do List - web dev projects - Visual Studio Code 01-09-2024 11_14_24](https://github.com/user-attachments/assets/7c67d774-c829-406f-9504-4f41eb84b5ed)
+
 
 project: Quiz-Game
 
