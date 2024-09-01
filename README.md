@@ -1,9 +1,15 @@
 Name:Ayush Singh
+
 company:CODETECH IT SOLUTIONS
+
 ID:CT08DS6066
+
 Domain:Frontend development
+
 Duration:august to september 2024
+
 Mentor:Muzammil Ahmed
+
 
 Overview of the project
 
